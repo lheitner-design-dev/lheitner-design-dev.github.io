@@ -8,7 +8,7 @@ export default function Home() {
         Liat Heitner
       </h1>
       <p className="text-lg text-gray-500 max-w-xl leading-relaxed">
-        I build the systems that help design teams move faster, together.
+        I architect design systems that bridge design, engineering, and AI-readiness in enterprise products.
       </p>
     </section>
   );
